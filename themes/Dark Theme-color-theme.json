@@ -4,13 +4,13 @@
 	"semanticHighlighting": true,
 	"semanticTokenColors": {
 	  "enumMember": {
-		"foreground": "#f5f5f5"
+		"foreground": "#aba3a3"
 	  },
 	  "variable.constant": {
 		"foreground": "#ff7c00"
 	  },
 	  "variable.defaultLibrary": {
-		"foreground": "#f5f5f5"
+		"foreground": "#0a1d1d"
 	  }
 	},
 	"tokenColors": [
