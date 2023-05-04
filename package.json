@@ -3,6 +3,11 @@
   "displayName": "dark theme",
   "description": "dark theme",
   "version": "0.0.1",
+  "publisher": "ChorkHieng",
+  "repository": {
+       "type": "git",
+       "url": "https://github.com/Chorkhieng/VSCode-Dark-Theme"
+   },
   "engines": {
     "vscode": "^1.78.0"
   },
