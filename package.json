@@ -6,6 +6,15 @@
   "engines": {
     "vscode": "^1.78.0"
   },
+  "keywords": [
+      "theme",
+      "old",
+      "dark",
+      "dark-theme",
+      "simple",
+      "macos",
+      "default"
+  ],
   "categories": [
     "Themes"
   ],
