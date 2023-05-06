@@ -1,4 +1,4 @@
-# dark-theme README
+# Dark Theme
 
 ## Working with Markdown
 
