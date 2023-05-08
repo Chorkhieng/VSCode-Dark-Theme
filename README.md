@@ -25,5 +25,7 @@ This is a custom dark theme for Visual Studio Code that provides a dark, sleek, 
 - Custom icons that make it easy to identify different types of files and folders  
 - A streamlined user interface that minimizes distractions and keeps your focus on your code 
 
-To install this theme, simply download the .vsix file and install it in your VSCode extensions. You can then activate the theme by going to the `Preferences` menu and selecting `Color Theme`. Enjoy your new dark and stylish coding environment!
+To install this theme, simply download the .vsix file and install it in your VSCode extensions. You can then activate the theme by going to the `Preferences` menu and selecting `Color Theme`. Enjoy your new dark and stylish coding environment!  
 
+# Sample Image  
+<img src="./images/html.png">
